@@ -1,0 +1,31 @@
+---
+---
+@import "{{ site.theme }}";  /* bring in the minimal theme’s CSS */  
+
+/* 1) Declare CMU Serif faces */  
+@font-face {
+  font-family: "CMU Serif";
+  src: url("{{ '/assets/fonts/cmunrm.ttf' | relative_url }}") format("truetype");
+  font-weight: 400; font-style: normal;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("{{ '/assets/fonts/cmunbx.ttf' | relative_url }}") format("truetype");
+  font-weight: 700; font-style: normal;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("{{ '/assets/fonts/cmunit.ttf' | relative_url }}") format("truetype");
+  font-weight: 400; font-style: italic;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("{{ '/assets/fonts/cmunbi.ttf' | relative_url }}") format("truetype");
+  font-weight: 700; font-style: italic;
+}
+
+/* 2) Apply it globally */  
+body {
+  font-family: "CMU Serif", serif;
+  line-height: 1.6;
+}
