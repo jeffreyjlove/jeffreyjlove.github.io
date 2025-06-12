@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "CMU Serif";
+  src: url("/assets/fonts/cmu-serif/cmunrm.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("/assets/fonts/cmu-serif/cmunbx.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("/assets/fonts/cmu-serif/cmunit.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "CMU Serif";
+  src: url("/assets/fonts/cmu-serif/cmunbi.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+body {
+  font-family: "CMU Serif", serif;
+  /* optionally, adjust line-height or letter-spacing here */
+  line-height: 1.6;
+}
