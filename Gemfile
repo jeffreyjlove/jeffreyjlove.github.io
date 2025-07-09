@@ -13,6 +13,11 @@ source "https://rubygems.org"
 
 #gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
-group :test do
-  gem "html-proofer", "~> 5.0"
-end
+gem "jekyll", "~> 4.0"
+gem "jekyll-theme-chirpy"
+
+gem "github-pages", group: :jekyll_plugins
+
+#group :test do
+#  gem "html-proofer", "~> 5.0"
+#end
