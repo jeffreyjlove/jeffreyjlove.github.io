@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-stream
-order: 5
+order: 4
 ---
 
-For inquiries, contact [jeffrey.love@politics.ox.ac.uk](mailto:jeffrey.love@politics.ox.ac.uk)
+For all inquiries, contact [jeffrey.love@politics.ox.ac.uk](mailto:jeffrey.love@politics.ox.ac.uk)

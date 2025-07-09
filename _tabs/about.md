@@ -1,15 +1,13 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: user
+permalink: /
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 # Jeffrey J Love
 
-I am an MPhil Candidate in International Relations at the University of Oxford. I use large language models and natural language processing techniques to investigate the effects of sanctions and economic statecraft. My thesis is supervised by Dr Ranjit Lall.
+I am an DPhil Candidate in International Relations at the University of Oxford. I use large language models and natural language processing techniques to investigate the effects of sanctions and economic statecraft. My thesis is supervised by Professor Krzysztof Pelc.
 
 I hold a BSc in International Relations from the London School of Economics. I wrote my undergraduate dissertation, "Nationalization as a Strategy to Resist Economic Sanctions," on the political and economic methods that leaders use to counteract sanctions under the supervision of Dr Nikhil Kalyanpur.
 
@@ -17,4 +15,4 @@ I am a research assistant with the European Studies Centre's Dahrendorf Program 
 
 # Contact
 
-For inquiries, contact [jeffrey.love@politics.ox.ac.uk](mailto:jeffrey.love@politics.ox.ac.uk)
+For all inquiries, contact [jeffrey.love@politics.ox.ac.uk](mailto:jeffrey.love@politics.ox.ac.uk)
